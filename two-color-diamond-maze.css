@@ -27,7 +27,7 @@ ul{
 	color: #111111;
 	text-align: center;
 	letter-spacing: 1px;
-	line-height: 1.2em;
+	line-height: 1em;
 	max-width: 600px;
 	margin-right: auto;
 	margin-left: auto;
@@ -314,6 +314,7 @@ ul{
 	width: 100%;
 	display: flex; 
 	flex-wrap: wrap;
+	margin: 40px 0;
 }
 
 .left_col{
