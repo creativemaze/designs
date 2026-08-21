@@ -158,7 +158,7 @@ ul{
 .head_btn a:hover{
 	color: #111111;
 	background-color: #ffffff;
-	border-color: #ffffff;
+	border-color: #111111;
 }
 
 .header .menu > ul > li {
@@ -317,7 +317,7 @@ ul{
 /* --- 3.1. Home Area One --- */
 .home_area_one{
 	max-width: 1280px;
-	margin: 12em auto 9em;
+	margin: 12em auto 0;
 	padding: 0 25px;
 }
 
@@ -409,7 +409,7 @@ ul{
 /* --- 3.2. Home Area Two --- */
 .home_area_two{
 	max-width: 1280px;
-	margin: 0 auto 9em;
+	margin: 0 auto 0;
 	padding: 0 25px;
 }
 
