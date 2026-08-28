@@ -98,7 +98,7 @@ $( ".resources a" ).click(function() {
 });
 
 $( ".articles a" ).click(function() {
-	$('.education_group_seven').animatescroll();
+	$('.education_area_seven').animatescroll();
 });
 
 //MagnificPopup Video
