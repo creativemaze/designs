@@ -85,7 +85,7 @@ $( ".curriculum a" ).click(function() {
 	$('.education_group_two').animatescroll();
 });
 
-$( ".age_groups a" ).click(function() {
+$( ".groups a" ).click(function() {
 	$('.education_area_three').animatescroll();
 });
 
