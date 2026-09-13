@@ -26,7 +26,7 @@ $( ".practice a" ).click(function() {
 	$('.medical_area_four').animatescroll();
 });
 
-$( ".blog a" ).click(function() {
+$( ".news a" ).click(function() {
 	$('.medical_area_six').animatescroll();
 });
 

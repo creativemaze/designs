@@ -1,8 +1,9 @@
 /*------------------------------------------------------------------
 Main Stylesheet
 
-Project:   Medical Website Template
-Last change:    29/08/2026
+Project:   Medical-Pro - Medical Website Template
+Last change:    02/09/2026
+Author:    creativemaze
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
@@ -1596,7 +1597,7 @@ a.footer-logo img{
 	letter-spacing: 1px;
 	color: #ffffff;
 	text-align: left;
-	padding: 15px 0 15px;
+	padding: 10px 0 15px;
 	line-height: 1.5em;
 }
 
@@ -1631,12 +1632,12 @@ a.footer-logo img{
 }
 
 .footer_col > ul > li{
-	padding: 4px 0;
+	padding: 6px 0;
 }
 
 .footer_col > ul > li a{
 	font-family: 'Montserrat', Arial, sans-serif;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 1px;
 	text-decoration: none;
@@ -1902,12 +1903,6 @@ a.footer-logo img{
 		text-align: center;
 		border: none;
 		background: rgba(255,255,255,0.5);
-	}
-	
-	.header .menu .menu-section {
-		height: 100%;
-		overflow-y: auto;
-		overflow-x: hidden;
 	}
 	
 	.overlay {
